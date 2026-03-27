@@ -37,8 +37,11 @@
 </p>
  
 ---
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yash-pawade&theme=tokyo-night&hide_border=true&area=true" width="100%" />
- 
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yash-pawade&theme=github-dark&hide_border=true&area=false&hide_title=false" width="100%" />
+
+---
+
 ## 📬 Contact Me
  
 <p align="left">
